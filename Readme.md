@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Елена Ордина](https://up.htmlacademy.ru/adaptive/13/user/512899).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Зубов]
 
 ---
 
